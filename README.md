@@ -28,6 +28,7 @@ In addition to the languages seen in the graph, I can use, in descending order o
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%232C2D72.svg?style=for-the-badge&logo=sql&logoColor=white&color=fa575b)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![OCAML](https://img.shields.io/badge/ocaml-%23276DC3.svg?color=white&style=for-the-badge&logo=ocaml&logoColor=orange)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
     
