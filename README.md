@@ -28,7 +28,7 @@ I have experience with the following languages:
 
 I have some, minimal experience in the following languages:
 
-- C, OCaml, PHP, Erlang, R
+- C, Lua, OCaml, PHP, Erlang, R
 
 I do not have any real experience with Ruby; it shows on my "Most Used Languages" because my blog is made with Jekyll.
     
