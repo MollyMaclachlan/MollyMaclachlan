@@ -22,15 +22,15 @@ I'm Murdo, a Scottish software engineering student who'd actually rather be doin
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=murdomaclachlan&langs_count=10&show_icons=true&theme=vision-friendly-dark&locale=en" alt="Graph showing the most used languages on GitHub for Murdo Maclachlan." />
 <img src="https://github-readme-stats.vercel.app/api?username=murdomaclachlan&show_icons=true&theme=vision-friendly-dark&locale=en&include_all_commits=true" alt="theodorehua" />
 
-In addition to the languages seen in the graph, I can use, in descending order of experience:
+I have experience with the following languages:
 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%232C2D72.svg?style=for-the-badge&logo=sql&logoColor=white&color=fa575b)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![OCAML](https://img.shields.io/badge/ocaml-%23276DC3.svg?color=white&style=for-the-badge&logo=ocaml&logoColor=orange)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+- Python, Java, JavaScript, HTML, CSS, Shell, SQL
+
+I have some, minimal experience in the following languages:
+
+- C, OCaml, PHP, Erlang, R
+
+I do not have any real experience with Ruby; it shows on my "Most Used Languages" because my blog is made with Jekyll.
     
 <br>
 
