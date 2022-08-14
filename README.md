@@ -20,7 +20,7 @@ I'm Murdo, a Scottish software engineering student who'd actually rather be doin
     <summary></summary>
 
 <img src="https://github-readme-stats.vercel.app/api?username=murdomaclachlan&show_icons=true&theme=vision-friendly-dark&locale=en&include_all_commits=true" alt="theodorehua" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=murdomaclachlan&langs_count=10&show_icons=true&theme=vision-friendly-dark&locale=en" alt="Graph showing the most used languages on GitHub for Murdo Maclachlan." />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=murdomaclachlan&langs_count=10&show_icons=true&theme=vision-friendly-dark&locale=en" alt="Graph showing the most used languages on GitHub for Murdo Maclachlan." />
 
 I have experience with the following languages:
 
