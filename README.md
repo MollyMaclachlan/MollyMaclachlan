@@ -36,31 +36,6 @@ I do not have any real experience with Ruby; it shows on my "Most Used Languages
 
 </details>
 
-<h2 align="center">Recommended Repositories</h2>
-<details>
-    <summary></summary>
-
-<a href="https://github.com/MurdoMaclachlan/oscr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=murdomaclachlan&repo=oscr&theme=vision-friendly-dark" />
-</a>
-<a href="https://github.com/MurdoMaclachlan/ToR-Repost-Collection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=murdomaclachlan&repo=tor-repost-collection&theme=vision-friendly-dark" />
-</a>
-<a href="https://github.com/MurdoMaclachlan/unofficial-tor-apps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=murdomaclachlan&repo=unofficial-tor-apps&theme=vision-friendly-dark" />
-</a>
-<a href="https://github.com/MurdoMaclachlan/grimrock-import">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=murdomaclachlan&repo=grimrock-import&theme=vision-friendly-dark" />
-</a>
-<a href="https://github.com/MurdoMaclachlan/tadr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=murdomaclachlan&repo=tadr&theme=vision-friendly-dark" />
-</a>
-<a href="https://github.com/MurdoMaclachlan/bash-aliases">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=murdomaclachlan&repo=bash-aliases&theme=vision-friendly-dark" />
-</a>
-    
-</details>
-
 <h2 align="center">Contact</h2>
 <details>
     <summary></summary>
