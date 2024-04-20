@@ -28,7 +28,7 @@ Programming projects of mine elsewhere:
 - **[No Dismemberment or Finishers](https://www.nexusmods.com/witcher3/mods/8154)**, a mod for *The Witcher 3: The Wild Hunt* that disables in-combat dismemberment and slow-motion finishers.
 - **[Goromorg](https://www.nexusmods.com/legendofgrimrock2/mods/170)**, **[Tunnel Ogre](https://www.nexusmods.com/legendofgrimrock2/mods/140)**, and **[Skeleton Warrior](https://www.nexusmods.com/legendofgrimrock2/mods/136)**, three mods for *The Legend of Grimrock 2* that import enemies from the previous game as assets for custom dungeon creation.
 
-<img src="https://github-readme-stats.vercel.app/api?username=murdomaclachlan&show_icons=true&theme=vision-friendly-dark&locale=en&include_all_commits=true" alt="theodorehua" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=murdomaclachlan&show_icons=true&theme=vision-friendly-dark&locale=en&include_all_commits=true" alt="theodorehua" />
 
 <h2 align="center">Contact</h2>
 
@@ -38,4 +38,4 @@ You can contact me for purposes relating to my public projects at [murdomaclachl
 
 <h2 align="center">Credits</h2>
 
-- **[anuraghazra](https://github.com/anuraghazra)**, for the [stats cards](https://github.com/anuraghazra/github-readme-stats).
+- **[anuraghazra](https://github.com/anuraghazra)**, for the [stats card](https://github.com/anuraghazra/github-readme-stats).
