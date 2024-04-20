@@ -4,7 +4,7 @@ I'm Murdo, a Scottish software engineering student who'd actually rather be doin
 
 <h2 align="center">Quick Links</h2>
 
-**[My website](https://murdomaclachlan.github.io/website)** probably conatins most information you might be looking for.
+**[My website](https://murdomaclachlan.github.io/website)** probably contains most information you might be looking for.
 
 <h2 align="center">Experience</h2>
 
