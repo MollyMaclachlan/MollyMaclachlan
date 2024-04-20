@@ -3,59 +3,39 @@
 I'm Murdo, a Scottish software engineering student who'd actually rather be doing writing than programming. On this profile, I mostly make third-party tools for the [Transcribers of Reddit](https://reddit.com/r/TranscribersOfReddit).
 
 <h2 align="center">Quick Links</h2>
-<details>
-    <summary></summary>
 
-[![Website](https://img.shields.io/badge/my_website-%23ED8B00.svg?style=for-the-badge&color=black)](https://murdomaclachlan.github.io/website)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/murdomaclachlan)
-[![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/murdomaclachlan)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/murdomaclachlan)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCFC6WprQlC7q2pwJEhaCPfA)
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V66H0A6)
+**[My website](https://murdomaclachlan.github.io/website)** probably conatins most information you might be looking for.
 
-</details>
+<h2 align="center">Experience</h2>
 
-<h2 align="center">Stats</h2>
-<details>
-    <summary></summary>
+I'm most experienced in Java and Python. I'm also fairly experienced with JavaScript, HTML and CSS. I use Eclipse for Java, and VSCode ([VSCodium](https://vscodium.com/), strictly speaking) for everything else.
+
+I have some lesser experience in the following languages (alphabetical order): C, Erlang, Lua, OCaml, PHP, R, Shell, SQL
+
+The projects I'm currently working on through this account are:
+
+- **[pipupdater](https://github.com/MurdoMaclachlan/pipupdater)**, a Python command-line tool to automatically update any out-of-date packages reported by the [pip-check](https://github.com/bartTC/pip-check/) module.
+- **[smooth_logger](https://github.com/MurdoMaclachlan/smooth_logger)**, a simple Python logging library that lets you customise various logging scopes and whether they will be printed or saved to the log file.
+- **[smooth_progress](https://github.com/MurdoMaclachlan/smooth_progress)**, a simple Python progress bar that can be integrated with the above library.
+- **[Word Search](https://github.com/MurdoMaclachlan/WordSearch)**, a very simple Java auto-generator and auto-solver for word search puzzles, which currently needs much more development.
+
+Some projects I've worked on in the past include:
+
+- **[oscr](https://github.com/MurdoMaclachlan/oscr)**, **[tadr](https://github.com/MurdoMaclachlan/tadr)** and **[torcf](https://github.com/MurdoMaclachlan/torcf)**, command-line Python tools that interfaced with the Reddit API to streamline the transcribing process for members of the now shuttered [r/TranscribersOfReddit](https://old.reddit.com/r/TranscribersOfReddit/new/) project.
+
+Programming projects of mine elsewhere:
+
+- **[No Dismemberment or Finishers](https://www.nexusmods.com/witcher3/mods/8154)**, a mod for *The Witcher 3: The Wild Hunt* that disables in-combat dismemberment and slow-motion finishers.
+- **[Goromorg](https://www.nexusmods.com/legendofgrimrock2/mods/170)**, **[Tunnel Ogre](https://www.nexusmods.com/legendofgrimrock2/mods/140)**, and **[Skeleton Warrior](https://www.nexusmods.com/legendofgrimrock2/mods/136)**, three mods for *The Legend of Grimrock 2* that import enemies from the previous game as assets for custom dungeon creation.
 
 <img src="https://github-readme-stats.vercel.app/api?username=murdomaclachlan&show_icons=true&theme=vision-friendly-dark&locale=en&include_all_commits=true" alt="theodorehua" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=murdomaclachlan&langs_count=10&show_icons=true&theme=vision-friendly-dark&locale=en" alt="Graph showing the most used languages on GitHub for Murdo Maclachlan." />
-
-I have experience with the following languages:
-
-- Python, Java, JavaScript, HTML, CSS, Shell, SQL
-
-I have some, minimal experience in the following languages:
-
-- C, Lua, OCaml, PHP, Erlang, R
-    
-<br>
-
-</details>
 
 <h2 align="center">Contact</h2>
-<details>
-    <summary></summary>
 
-My website can be found [here](https://murdomaclachlan.github.io/website).
+Once again, my website can be found [here](https://murdomaclachlan.github.io/website).
 
 You can contact me for purposes relating to my public projects at [murdomaclachlan@duck.com](mailto:murdomaclachlan@duck.com).
 
-</details>
-
 <h2 align="center">Credits</h2>
-<details>
-    <summary></summary>
-    <ul>
-        <li><a href="https://github.com/anuraghazra">anuraghazra</a>, for the <a href="https://github.com/anuraghazra/github-readme-stats">stats cards</a>.
-        <li><a href="https://github.com/Ileriayo/">Ileriayo</a>, for the <a href="https://github.com/Ileriayo/markdown-badges">profile badges</a>.
-    </ul>
-</details>
 
-<!--
-<h2 align="center">Template</h2>
-<details>
-    <summary></summary>
-</details>
--->
+- **[anuraghazra](https://github.com/anuraghazra)**, for the [stats cards](https://github.com/anuraghazra/github-readme-stats).
