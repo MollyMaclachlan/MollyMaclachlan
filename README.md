@@ -1,6 +1,6 @@
 <h1 align="center">Murdo Maclachlan</h1>
 
-I'm Murdo, a Scottish software engineering student who'd actually rather be doing writing than programming. On this profile, I mostly make third-party tools for the [Transcribers of Reddit](https://reddit.com/r/TranscribersOfReddit).
+I'm Murdo, a Scottish software engineering student ([graduand](https://en.wiktionary.org/wiki/graduand), technically) who mostly uses Java and Python and has far too many hobbies and a remarkable skill for procrastination.
 
 <h2 align="center">Quick Links</h2>
 
