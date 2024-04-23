@@ -14,7 +14,7 @@ I have some lesser experience in the following languages (alphabetical order): C
 
 The projects I'm currently working on through this account are:
 
-- **[pipupdater](https://github.com/MurdoMaclachlan/pipupdater)**, a Python command-line tool to automatically update any out-of-date packages reported by the [pip-check](https://github.com/bartTC/pip-check/) module.
+- **[pipupdater](https://github.com/MurdoMaclachlan/pipupdater)**, a Python command-line tool to automatically update any out-of-date packages reported by [pip](https://pip.pypa.io/en/stable/).
 - **[smooth_logger](https://github.com/MurdoMaclachlan/smooth_logger)**, a simple Python logging library that lets you customise various logging scopes and whether they will be printed or saved to the log file.
 - **[smooth_progress](https://github.com/MurdoMaclachlan/smooth_progress)**, a simple Python progress bar that can be integrated with the above library.
 - **[Word Search](https://github.com/MurdoMaclachlan/WordSearch)**, a very simple Java auto-generator and auto-solver for word search puzzles, which currently needs much more development.
