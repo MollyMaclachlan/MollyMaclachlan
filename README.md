@@ -28,6 +28,11 @@ Programming projects of mine elsewhere:
 - **[No Dismemberment or Finishers](https://www.nexusmods.com/witcher3/mods/8154)**, a mod for *The Witcher 3: The Wild Hunt* that disables in-combat dismemberment and slow-motion finishers.
 - **[Goromorg](https://www.nexusmods.com/legendofgrimrock2/mods/170)**, **[Tunnel Ogre](https://www.nexusmods.com/legendofgrimrock2/mods/140)**, and **[Skeleton Warrior](https://www.nexusmods.com/legendofgrimrock2/mods/136)**, three mods for *The Legend of Grimrock 2* that import enemies from the previous game as assets for custom dungeon creation.
 
+I also have a few small Bash scripts:
+
+- **[installsp](https://github.com/MurdoMaclachlan/installsp)**, for streamlining the installation of Slackware packages and moving them to a local repository.
+- **[sytdl](https://github.com/MurdoMaclachlan/sytdl)**, for shortening the argument syntax of youtube-dlp, because I'm lazy.
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=murdomaclachlan&show_icons=true&theme=vision-friendly-dark&locale=en&include_all_commits=true" alt="theodorehua" />
 
 <h2 align="center">Contact</h2>
