@@ -33,14 +33,8 @@ I also have a few small Bash scripts:
 - **[installsp](https://github.com/MurdoMaclachlan/installsp)**, for streamlining the installation of Slackware packages and moving them to a local repository.
 - **[sytdl](https://github.com/MurdoMaclachlan/sytdl)**, for shortening the argument syntax of youtube-dlp, because I'm lazy.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=murdomaclachlan&show_icons=true&theme=vision-friendly-dark&locale=en&include_all_commits=true" alt="theodorehua" />
-
 <h2 align="center">Contact</h2>
 
 Once again, my website can be found [here](https://murdomaclachlan.github.io/website).
 
 You can contact me for purposes relating to my public projects at [murdomaclachlan@duck.com](mailto:murdomaclachlan@duck.com).
-
-<h2 align="center">Credits</h2>
-
-- **[anuraghazra](https://github.com/anuraghazra)**, for the [stats card](https://github.com/anuraghazra/github-readme-stats).
