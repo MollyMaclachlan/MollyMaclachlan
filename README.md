@@ -1,6 +1,6 @@
 <h1 align="center">Murdo Maclachlan</h1>
 
-I'm Murdo, a Scottish software engineering student ([graduand](https://en.wiktionary.org/wiki/graduand), technically) who mostly uses Java and Python and has far too many hobbies and a remarkable skill for procrastination.
+I'm Murdo, a Scottish nerd with a degree in software engineering who mostly uses Java and Python and has far too many hobbies and a remarkable skill for procrastination.
 
 <h2 align="center">Quick Links</h2>
 
