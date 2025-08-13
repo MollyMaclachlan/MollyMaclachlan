@@ -37,4 +37,4 @@ I also have a few small Bash scripts:
 
 Once again, my website can be found [here](https://murdomaclachlan.github.io/website).
 
-You can contact me for purposes relating to my public projects at [murdomaclachlan@duck.com](mailto:mollymaclachlan@duck.com).
+You can contact me for purposes relating to my public projects at [mollymaclachlan@duck.com](mailto:mollymaclachlan@duck.com).
